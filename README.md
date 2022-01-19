@@ -1,7 +1,9 @@
 # Http Method Tester
 
-## Sends GET, POST, PUT, PATCH, HEAD, OPTIONS, & DELETE requests to the supplied URL.
+Sends GET, POST, PUT, PATCH, HEAD, OPTIONS, & DELETE requests to the supplied URL.
 
-# Usage:
+## Usage:
 
-## python3 verbCheck.py https://example.com
+```
+ python3 verbCheck.py https://example.com
+```
