@@ -5,5 +5,5 @@ Sends GET, POST, PUT, PATCH, HEAD, OPTIONS, & DELETE requests to the supplied UR
 ## Usage:
 
 ```
- python3 verbCheck.py https://example.com
+ python3 verb_check.py https://example.com
 ```
